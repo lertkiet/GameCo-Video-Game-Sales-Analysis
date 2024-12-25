@@ -1,18 +1,17 @@
 # GameCo Global Video Game Sales Analysis Project
 
-
 ## Overview of the Company
-As an analyst for GameCo, a new video game company, the objective is to perform a descriptive analysis of a video game dataset to gain insights into the video game market. By analyzing historical sales data spanning different platforms, genres, and publishing studios, the aim is to inform the development of new games and understand market dynamics.
+As an analyst at GameCo, a new video game company, the goal is to conduct a descriptive analysis of a video game dataset to uncover key insights into the market. By examining historical sales data across various platforms, genres, and publishers, the analysis will provide valuable input for developing new games and understanding market trends.
 
 ## Project Tasks & Deliverables   
-1. Explore the dimensions and characteristics of the video game sales dataset
-2. Cleanse the dataset to address inconsistencies
-3. Transform and analyze sales data to identify trends and patterns
-4. Address hypothetical challenges faced by GameCo with appropriate analytical methods
-5. Conduct descriptive analysis to understand data distribution
-6. Develop insights for marketing budget allocation
-7. Create various visualizations to understand sales patterns
-8. Produce a narrative presentation communicating analytical findings
+1. Examine the structure and attributes of the video game sales dataset.
+2. Clean the dataset to resolve inconsistencies and ensure accuracy.
+3. Process and analyze sales data to uncover trends and patterns.
+4. Tackle hypothetical challenges for GameCo using suitable analytical techniques.
+5. Perform descriptive analysis to assess data distribution.
+6. Generate insights to guide marketing budget allocation.
+7. Design visualizations to illustrate sales patterns and trends.
+8. Craft a narrative presentation to effectively communicate analytical insights.
 
 ## Data Set
 The dataset covers historical sales of video games from 1980 to 2016, sourced from VGChartz. Important points about the dataset
@@ -24,8 +23,8 @@ The dataset covers historical sales of video games from 1980 to 2016, sourced fr
 Microsoft Excel (Analysis)
 
 ## Visualizations
-Visualizations created during the project using Microsoft Excel will be included in the final presentation, showcasing insights derived from the data analysis process.
+The final presentation will feature visualizations created in Microsoft Excel, highlighting key insights gained from the data analysis process.
 
 ## Summary
-The Video Game Popularity Data Analysis Project aims to leverage data-driven insights to inform game development strategies for GameCo. Through a series of exercises covering data exploration, cleaning, analysis, and visualization, the project provides actionable insights into video game sales trends and market dynamics. By applying analytical methods and visual storytelling techniques, the project demonstrates the significance of data analytics in guiding strategic decision-making in the gaming industry.
+The Video Game Popularity Data Analysis Project focuses on using data-driven insights to shape GameCo's game development strategies. By conducting data exploration, cleaning, analysis, and visualization, the project delivers actionable insights into sales trends and market dynamics. Through analytical techniques and visual storytelling, it highlights the critical role of data analytics in driving strategic decisions within the gaming industry.
 
